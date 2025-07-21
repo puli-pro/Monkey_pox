@@ -253,7 +253,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📞 Support & Contact
 
 - **Issues**: [GitHub Issues](https://github.com/puli-pro/Monkey_pox/issues)
-- **Email**: `puli.pro.dev@gmail.com`
+- **Email**: [pulipavan696@gmail.com](mailto:pulipavan696@gmail.com)
+- **LinkedIn**: [Solige Pullaiah](https://www.linkedin.com/in/solige-pullaiah-478462270/)
 - **Documentation**: Check individual notebook files for detailed methodology
 
 ## 🙏 Acknowledgments
@@ -271,7 +272,7 @@ This project supports ongoing research in:
 - **Public Health Surveillance**: Scalable screening methodologies
 - **Medical Informatics**: Integration of ML in healthcare workflows
 
-**Citation**: If you use this work in your research, please cite the repository and reference the associated methodologies described in the research papers documentation[1].
+**Citation**: If you use this work in your research, please cite the repository and reference the associated methodologies described in the research papers documentation.
 
 
   🏥 Advancing Healthcare Through Machine Learning 🤖
