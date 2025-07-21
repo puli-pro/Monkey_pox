@@ -1,4 +1,3 @@
----
 
 # 🦠 **Monkeypox Classification & Detection System**
 
