@@ -3,6 +3,38 @@
 
 **An Advanced Machine Learning Pipeline for Clinical Diagnosis Using Symptom Analysis**
 
+
+
+---
+
+## 📑 Table of Contents
+
+1. [Project Overview](#-project-overview)
+2. [Core Features](#-core-features)
+3. [Repository Structure](#-repository-structure)
+4. [Getting Started](#-getting-started)
+
+   1. [Prerequisites](#prerequisites)
+   2. [Installation & Setup](#installation--setup)
+5. [Dataset Information](#-dataset-information)
+6. [Usage Examples](#-usage-examples)
+
+   1. [Quick Start - Basic Classification](#quick-start---basic-classification)
+   2. [Advanced Neural Network Analysis](#advanced-neural-network-analysis)
+   3. [Feature Selection Pipeline](#feature-selection-pipeline)
+7. [Model Performance](#-model-performance)
+8. [Advanced Features](#-advanced-features)
+
+   1. [Hyperparameter Optimization](#hyperparameter-optimization)
+   2. [Feature Selection Methods](#feature-selection-methods)
+   3. [Model Validation](#model-validation)
+9. [Clinical Applications](#-clinical-applications)
+10. [Contributing](#-contributing)
+11. [License](#-license)
+12. [Support & Contact](#-support--contact)
+13. [Acknowledgments](#-acknowledgments)
+14. [Research & Publication](#-research--publication)
+
 ---
 
 ## 📊 Project Overview
